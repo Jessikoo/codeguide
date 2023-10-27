@@ -1,6 +1,5 @@
-# Стиль кода .html academy
+# Стиль кода .
 
-Это исходники, публичная версия на сайте [codeguide.academy](https://codeguide.academy/).
 
 ## Благодарности
 
